@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Pratham Shrestha and I'm a Frontend Developer, from Banepa, Nepal</p>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Creating bugs since 2020 (and fixing them too 😄)<br>
+📚 I'm currently learning advanced MERN stack development and mobile app development with Flutter<br>
+🎯 Goals: To become a skilled full-stack developer and build impactful real-world applications<br>
+🎲 Fun fact: I enjoy debugging more than writing code sometimes!
+</p>
 
 ###
 
