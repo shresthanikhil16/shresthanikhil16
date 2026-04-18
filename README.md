@@ -7,7 +7,7 @@
 
 - 💻 Frontend Developer from **Banepa, Nepal**
 - 🐛 Creating bugs since 2020 (and fixing them too 😄)
-- 📚 Currently learning **Advanced MERN Stack** & **Flutter Mobile Development**
+- 📚 Currently learning **Advanced MERN Stack**, **PostgreSQL**, & **Flutter Mobile Development**
 - 🎯 Goal: Become a **skilled Full-Stack Developer** and build impactful real-world applications
 - 🧠 Fun fact: *I enjoy debugging more than writing code sometimes*
 
@@ -15,6 +15,7 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Frontend & Mobile
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
@@ -23,6 +24,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+</div>
+
+### 🗄️ Backend & Database
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
 ---
@@ -37,7 +45,7 @@
 
 ## 📈 Goals for 2026
 
-- 🚀 Master full-stack development (MERN + Mobile)
+- 🚀 Master full-stack development (MERN + PostgreSQL + Mobile)
 - 🧩 Build scalable, production-level applications
 - 🌍 Contribute to open-source projects
 
@@ -45,9 +53,8 @@
 
 ## 🤝 Connect With Me
 
-- 💼 Portfolio: *Coming soon...*
-- 📫 Email: *Add your email here*
-- 🌐 LinkedIn: *Add your link*
+- 💼 Portfolio: https://shresthapratham.netlify.app/
+- 📫 Email: officialbade007@gmail.co
 
 ---
 
