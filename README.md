@@ -1,67 +1,71 @@
-<h1 align="center">Hey 👋, I'm Pratham Shrestha</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Flutter Learner</h3>
+<h1 align="center">Hi there 👋, I'm Pratham Shrestha</h1>
+
+<p align="center">
+  💻 Fullstack Developer | 🚀 MERN & Flutter Enthusiast | 🇳🇵 Nepal
+</p>
 
 ---
 
-## 🚀 About Me
-
-- 💻 Frontend Developer from **Banepa, Nepal**
-- 🐛 Creating bugs since 2020 (and fixing them too 😄)
-- 📚 Currently learning **Advanced MERN Stack**, **PostgreSQL**, & **Flutter Mobile Development**
-- 🎯 Goal: Become a **skilled Full-Stack Developer** and build impactful real-world applications
-- 🧠 Fun fact: *I enjoy debugging more than writing code sometimes*
+## 💼 Portfolio  
+🌐 [Visit My Portfolio](http://shresthapratham.netlify.app)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend & Mobile
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-</div>
-
-### 🗄️ Backend & Database
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-</div>
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://instagram.com/yourusername" target="_blank">Instagram</a> •
+  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> •
+  <a href="mailto:shresthanikhil16@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🔥 What I'm Working On
+## 💻 Tech Stack  
 
-- 🏠 Building **Urban Nest** – a flat renting platform
-- 📱 Exploring cross-platform apps with **Flutter**
-- ⚡ Improving performance and UI/UX in modern web apps
+### 🚀 Languages  
+`HTML5` `CSS3` `JavaScript` `TypeScript` `Dart` `Python` `Java` `R` `PowerShell`
+
+### 🎨 Frontend  
+`React` `Next.js` `Vue.js` `TailwindCSS` `Bootstrap` `Vite`
+
+### ⚙️ Backend  
+`Node.js` `Express.js` `Django` `FastAPI`
+
+### 📱 Mobile  
+`Flutter`
+
+### 🗄️ Database  
+`MongoDB` `MySQL` `SQLite`
+
+### ☁️ Cloud & Hosting  
+`AWS` `Firebase` `Google Cloud` `Cloudflare` `Render`
+
+### 🧠 AI & Data  
+`NumPy` `Pandas` `PyTorch`
+
+### 🛠️ Tools & Platforms  
+`Git` `GitHub` `Docker` `Postman` `Figma` `Canva` `Trello` `GitHub Actions`
 
 ---
 
-## 📈 Goals for 2026
+## 📊 GitHub Stats  
 
-- 🚀 Master full-stack development (MERN + PostgreSQL + Mobile)
-- 🧩 Build scalable, production-level applications
-- 🌍 Contribute to open-source projects
-
----
-
-## 🤝 Connect With Me
-
-- 💼 Portfolio: https://shresthapratham.netlify.app/
-- 📫 Email: officialbade007@gmail.co
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shresthanikhil16&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shresthanikhil16&theme=radical" alt="streak" />
+</p>
 
 ---
 
-## ⚡ Fun Zone
+## ✍️ Random Dev Quote  
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>  
+  — John Johnson
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🔥 Fun Fact  
+I build apps that actually solve real-world problems 🚀
