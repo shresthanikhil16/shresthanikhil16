@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pratham Shrestha</h1>
 
 <p align="center">
-  💻 Fullstack Developer | 🚀 MERN & Flutter Enthusiast | 🇳🇵 Nepal
+  💻 Fullstack Developer | 🚀 MERN & React Native Developer | 🇳🇵 Nepal
 </p>
 
 ---
